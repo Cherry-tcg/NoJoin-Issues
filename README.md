@@ -21,4 +21,3 @@ Minecraft Versions:
 
 Mod page:
 https://modrinth.com/mod/no-join
-
